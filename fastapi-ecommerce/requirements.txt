@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy>=1.4
+pydantic[email]
+pymysql
+streamlit
+pandas
+python-dotenv
+alembic
